@@ -1,0 +1,21 @@
+.nav-bar-wrapper {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #a0522d;
+}
+
+.nav-bar-wrapper button{
+    display: flex;
+    flex-direction: row;
+    font-family: cursive;
+    background-color: #e19069;
+    border-radius: 15px;
+    margin: 1%;
+    box-shadow: 5px 5px #b67555;
+}
+
+.nav-bar-wrapper button:hover{
+    background-color: #e191699b;
+    border:2px solid;
+}

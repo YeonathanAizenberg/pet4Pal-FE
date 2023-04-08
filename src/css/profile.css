@@ -1,0 +1,24 @@
+.profileDisplay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profileDisplay label {
+    margin: 10px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.profileDisplay label textarea {
+    max-width: 250px;
+    max-height: 150px;
+    min-height: 150px;
+}
+
+label textarea {
+    max-width: 250px;
+    max-height: 150px;
+    min-height: 150px;
+}

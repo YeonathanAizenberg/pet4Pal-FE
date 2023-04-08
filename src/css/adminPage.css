@@ -1,0 +1,38 @@
+.admHeaderDisplay {
+    flex-direction: column;
+}
+
+.admPageDisplay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+.admPetsANDUsersDisplay {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-family: monospace;
+    margin: 10px;
+}
+
+.admCards {
+    border: 2px solid sienna;
+    margin: 10px;
+    border-radius: 20px;
+    background-color:snow;
+    font-family: monospace;
+}
+
+ol li {
+    list-style-type: none;
+}
+
+.admCardsItems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
