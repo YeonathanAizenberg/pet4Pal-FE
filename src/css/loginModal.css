@@ -1,0 +1,32 @@
+.modalHeader {
+    color:whitesmoke;
+    background-color: sienna;
+}
+
+.modalBody {
+    background-color: rgba(160, 81, 45, 0.788);
+}
+
+.modalLogIn {
+    display: flex;
+    flex-direction: column;
+}
+
+.modalLogIn Button{
+    border-radius: 50px;
+}
+
+.modalSingUp {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 40%;
+}
+
+.modalSingUp input {
+    display: flex;
+}
+
+.modalSingUp Button {
+    border-radius: 5px;
+}

@@ -1,0 +1,21 @@
+.editPetPage {
+    margin: 50px;
+}
+
+.pet-img-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pet-img-wrapper img{
+    border-radius: 50px;
+    margin: 10px;
+    
+}
+
+.pet-img-wrapper input{
+    width: 125%;
+    
+}

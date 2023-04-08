@@ -1,0 +1,13 @@
+.petsModalHeader{
+background-color: sienna;
+font-family:monospace;
+font-size: 20px;
+font-weight: 900;
+}
+
+.petsModalBody {
+    background-color: rgba(160, 81, 45, 0.788);
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 900;
+}
